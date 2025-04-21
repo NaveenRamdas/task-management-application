@@ -40,7 +40,7 @@ shared in pdf
 
 ### 1. Clone the Repository
 
-cd frontend
+cd task-management-application
 npm install
 
 npm start
